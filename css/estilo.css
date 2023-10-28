@@ -1,5 +1,21 @@
 .imgicone{
-    width: 16%;
+    width: 19%;
+}
+
+body{
+    font-family: Anton;
+    background-color: #72BDB8;
+}
+
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+section{
+    border-radius: 30px;
+    background-color: aliceblue;
+    margin: 2%;
+    padding: 2%;
 }
 
 .legendacarrossel{
@@ -9,7 +25,31 @@
     font-size: 1.2em;
 }
 
+/* aqui é o elenco */
+.imgshadow {
+    box-shadow: 10px 6px 20px 6px #72BDB8;
+}
+.rowcard{
+    display: flex;
+    flex-flow: row wrap;
+    text-align: center;
+}
+
+/*aqui é a galeria*/ 
 .espacobaixo{
-    width: 98%;
-    
+    padding-bottom: 2%;
+}
+
+.imggal{
+    width: 100%;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px 2px #72BDB8;
+}
+
+.footer {
+    background-color: #317a76;
+    color: lavender;
+    font-size: 1.3em;
+    text-align: center;
+    padding: 1%;
 }
