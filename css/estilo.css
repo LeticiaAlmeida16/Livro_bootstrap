@@ -1,3 +1,14 @@
+.imgicone{
+    width: 16%;
+}
+
+.legendacarrossel{
+    color: white;
+    background-color: #72BDB8;
+    text-shadow: 3px 3px 5px #0053C2;
+    font-size: 1.2em;
+}
+
 .espacobaixo{
     width: 98%;
     
