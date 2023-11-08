@@ -38,6 +38,7 @@ section{
 /*aqui é a galeria*/ 
 .espacobaixo{
     padding-bottom: 2%;
+    
 }
 
 .imggal{
@@ -51,4 +52,8 @@ section{
     font-size: 1.3em;
     text-align: center;
     padding: 1%;
+}
+
+.espacocard{
+    margin-bottom: 3%;
 }
